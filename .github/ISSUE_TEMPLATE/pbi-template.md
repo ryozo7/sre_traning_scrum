@@ -2,7 +2,7 @@
 name: PBI template
 about: PBI template
 title: ''
-labels: PBI
+labels: PBI, SBI
 assignees: ''
 
 ---

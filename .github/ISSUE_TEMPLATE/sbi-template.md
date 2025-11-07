@@ -1,12 +1,12 @@
 ---
 name: SBI template
 about: SBI template
-title: ''
+title: "[dummy]"
 labels: SBI
 assignees: ''
 
 ---
 
-#スプリントプランニング時に見積もりを設定すること
+<!-- スプリングプランニング時に見積もりを設定すること -->
 
 ゴール条件
